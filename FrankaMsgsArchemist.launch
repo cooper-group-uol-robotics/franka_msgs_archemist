@@ -1,0 +1,3 @@
+<launch>
+	<node name="FrankaMsgsArchemist" pkg="franka_msgs_archemist" type="FrankaMsgsArchemist" />
+</launch>
