@@ -1,4 +1,5 @@
 int32 MOVE_VIAL_TASK = 0
+int32 RECORD_IMAGE = 1
 int32 task_type
 string task_name
 
